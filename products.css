@@ -159,14 +159,12 @@ a:hover {
     height: 150px;
     width: 150px;
     border-radius: 30px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     align-items: center;
     justify-content: center;
     position: relative; /* Enables positioning of child elements */
     overflow: hidden; /* Ensures content outside the div is hidden */
     flex-shrink: 0;
     box-sizing: border-box;
-    background-color: #e2e0e0;
     cursor: pointer;
   }
 
@@ -463,7 +461,6 @@ h2{
   width: 400px;
   background-color: #e2e0e0;
   border-radius: 35px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   position: relative;
   cursor: pointer;
 }
